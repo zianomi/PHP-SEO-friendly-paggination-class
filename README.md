@@ -4,8 +4,8 @@ If you want to use SEO friendly paggination use seo_friendly_example.php with ht
 
 This is default setting of paggination options:
 
-protected $_options = array(
 
+protected $_options = array(
             'recordsPerPage' => '10',
             'PerPagevariableName' => 'show-records',
             'variableName' => 'page',
