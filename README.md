@@ -6,6 +6,7 @@ This is default setting of paggination options:
 
 
 protected $_options = array(
+
             'recordsPerPage' => '10',
             'PerPagevariableName' => 'show-records',
             'variableName' => 'page',
