@@ -1,0 +1,6 @@
+RewriteEngine on
+Options -Indexes
+Options +FollowSymlinks
+
+#### if you want to use other variable name or other parameter name of show-records please change it here too
+RewriteRule ([0-9_-]+)/show-records/([0-9_-]+)$ seo_friendly_example.php?page=$1&show-records=$2
