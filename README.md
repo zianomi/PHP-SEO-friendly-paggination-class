@@ -1,4 +1,4 @@
-php_seo_friendly_paggination_class
+php seo friendly paggination class
 ==================================
 If you want to use SEO friendly paggination use seo_friendly_example.php with htacceess file.
 
